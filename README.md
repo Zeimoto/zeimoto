@@ -2,7 +2,7 @@
 
 Outsystems Developer<br>
 Machine Learning Trainee<br>
-at [UDDAN](https://uddanit.com/en/)
+
 <!--
 **Zeimoto/zeimoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
