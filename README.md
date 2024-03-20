@@ -1,8 +1,13 @@
-### Welcome 👋
+## Welcome 👋
 
-Outsystems Developer<br>
-Machine Learning Trainee<br>
 
+&nbsp;Outsystems Developer<br>
+&nbsp;Machine Learning Trainee<br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeimoto&show_icons=true&border_radius=5&text_color=ffffff&hide_border=True&line_height=24&title_color=ffffff&hide_rank=True&hide=contribs&bg_color=101217&theme=dark)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeimoto&langs_count=6&layout=donut-vertical&text_color=ffffff&title_color=ffffff&bg_color=101217&hide_border=True)&nbsp;
+
+
+
+ 
 <!--
 **Zeimoto/zeimoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
