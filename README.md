@@ -1,6 +1,6 @@
 ## Welcome 👋
 
->![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeimoto&show_icons=true&border_radius=2&text_color=ffffff&hide_border=True&line_height=24&hide_title=True&hide_rank=True&hide=contribs&bg_color=101217&theme=dark&card_width=1)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeimoto&show_icons=true&border_radius=2&text_color=ffffff&hide_border=True&line_height=24&hide_title=True&hide_rank=True&hide=contribs&bg_color=101217&theme=dark&card_width=1)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeimoto&langs_count=6&layout=donut-vertical&text_color=ffffff&bg_color=101217&hide_border=True&hide_title=True&card_width=1)
 &nbsp;
 
